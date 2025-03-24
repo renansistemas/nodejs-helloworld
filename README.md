@@ -65,10 +65,5 @@ hello-world/
 - Utilizar **módulos do Node.js** para organizar melhor o código.  
 - Permitir entrada de dados pelo usuário via **stdin**.  
 
-## 📜 Licença  
-
-Este projeto é de uso livre.  
-
----  
-
-Se precisar de ajustes ou quiser adicionar mais detalhes, só avisar! 🚀
+## Autor  
+Renan
