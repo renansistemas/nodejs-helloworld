@@ -1,7 +1,3 @@
-Aqui está o README completo para o seu projeto:  
-
----
-
 # Projeto Hello World  
 
 Este é um projeto simples em Node.js que exibe mensagens no console e realiza operações básicas, como soma de números e exibição de nome completo.  
